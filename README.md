@@ -74,9 +74,15 @@ Students who are aged less than 20 record relatively higher mental health rating
 **RECOMMENDATIONS**
 
 Students should study for at least 4 hours daily.
+
 Students should have enough sleep of at least 6 hours daily.
+
 Students should spend less than 2 hours on netflix per day.
+
 Students should spend less than 2.5 hours on social media per day.
+
 Students should be provided with foods of fair quality.
+
 Students should exercise at least 3 times per week.
+
 Students aged above 20 years should seek help from mental health counselors who will help them manage their mental health..
