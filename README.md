@@ -21,6 +21,7 @@ Does age has an effect on mental health rating?
 
 
 **FINDINGS FROM THE DATA**
+
 **Gender vs performance**
 Students of the "other" gender performed the best with an average of 70.6%.
 Female students performed slightly better than males with an average of 69.7%.
