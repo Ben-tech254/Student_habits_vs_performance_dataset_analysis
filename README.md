@@ -6,16 +6,27 @@
 **Tools used :** python, numpy, pandas, matplotlib, seaborn, os.
 
 **OBJECTIVES :**
+
 Which students perform better based on the gender?
+
 Does study hours per day have an effect on student performance in exams?
+
 Does social media have an effect on student performance in exams?
+
 Does Netflix have an effect on student performance in exams?
+
 Does hours of sleep per day have an effect on student performance in exams?
+
 Does diet quality have an effect on student performance in exams?
+
 Does frequency of doing exercises have an effect on student performance in exams?
+
 Does parental education level have an effect on student performance in exams?
+
 Does internet quality have an effect on student performance in exams?
+
 Does mental health have an effect on student performance in exams?
+
 Does age has an effect on mental health rating?
 
 
